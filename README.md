@@ -1,7 +1,3 @@
-Tack för din feedback! Nedan hittar du den uppdaterade README-filen:
-
----
-
 # oppna
 
 **oppna** is a service designed to quickly provide developers with a new Kubernetes cluster. Created in Sweden by the founders of the Open School Platform, it offers a simple and efficient solution for creating, scaling, and managing Kubernetes clusters.
